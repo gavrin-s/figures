@@ -1,0 +1,10 @@
+# core
+numpy==1.22.0
+opencv-python==4.5.5.62
+
+# tests
+pytest==6.2.5
+
+# visualization
+jupyter
+pillow
